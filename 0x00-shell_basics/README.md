@@ -1,21 +1,20 @@
-Script Descritions:
-
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
+Scripts:
+  2 0-current_working_directory
+  2 1-listit
+  2 10-back
+  2 11-lists
+  2 12-file_type
+  2 13-symbolic_link
+  2 14-copy_html
+  2 15-lets_move
+  2 16-clean_emacs16-clean_emacs
+  2 17-tree
+  2 18-commas
+  2 2-bring_me_home
+  2 3-listfiles
+  2 4-listmorefiles
+  2 5-listfilesdigitonly
+  2 6-firstdirectory
+  2 7-movethatfile
+  2 8-firstdelete
+  2 9-firstdirdeletion
