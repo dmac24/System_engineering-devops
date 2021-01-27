@@ -1,5 +1,2 @@
-root@6457fde61ad0:/holberton-system_engineering-devops/0x00-shell_basics# pwd
-/holberton-system_engineering-devops/0x00-shell_basics
-root@6457fde61ad0:/holberton-system_engineering-devops/0x00-shell_basics# cd
-root@6457fde61ad0:~# pwd
-/root
+#!/bin/bash
+cd
