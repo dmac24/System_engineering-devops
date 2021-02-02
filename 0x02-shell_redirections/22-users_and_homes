@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "Hello, World"
+sort /etc/passwd | cut -d : -f1,6
