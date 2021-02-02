@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "Hello, World"
+find . -name "*.js" -type f -delete
